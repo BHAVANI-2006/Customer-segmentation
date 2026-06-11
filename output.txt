@@ -1,0 +1,22 @@
+Customer Segments:
+
+     CustomerID  AnnualIncome  SpendingScore  Cluster
+0             1            15             39        2
+1             2            15             81        0
+2             3            16              6        2
+3             4            16             77        0
+4             5            17             40        2
+...
+195         196           120             79        0
+196         197           126              8        2
+197         198           126             74        0
+198         199           137             18        2
+199         200           137             83        0
+
+[200 rows x 4 columns]
+
+Cluster Centers:
+
+[[55.29 49.52]
+ [88.20 17.11]
+ [25.73 79.36]]
